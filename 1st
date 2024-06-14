@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this change is done from -b a. 
 hello this is abhishek want to test and learn the new concepts of git. This is added by feature branch
+=======
+this chamge is done from -b b. hello this is abhishek want to test and learn the new concepts of git. This is added by feature branch
+>>>>>>> 07abb01 (changes done from b)
